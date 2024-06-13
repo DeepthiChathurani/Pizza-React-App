@@ -58,8 +58,6 @@
       <change afterPath="$PROJECT_DIR$/client/src/view/pages/home/Home.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/tailwind.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
@@ -199,7 +197,7 @@
       <workItem from="1709428237032" duration="4091000" />
       <workItem from="1709454896724" duration="350000" />
       <workItem from="1717772274292" duration="18000" />
-      <workItem from="1717998386413" duration="4286000" />
+      <workItem from="1717998386413" duration="4579000" />
     </task>
     <servers />
   </component>
